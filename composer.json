@@ -1,0 +1,11 @@
+{
+    "name": "conviu/coding-standard",
+    "description": "Conviu coding standard",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^8.3",
+        "slevomat/coding-standard": "^8.15",
+        "symplify/easy-coding-standard": "^12.3"
+    }
+}
